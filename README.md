@@ -6,6 +6,7 @@ Proyek ini bertujuan untuk membangun model Clustering dan Classification untuk m
 ```
 │-- [Clustering] Submission Akhir BMLP_Hafizha Nurul Qolby.ipynb
 │-- [Klasifikasi] Submission Akhir BMLP_Hafizha Nurul Qolby.ipynb
+│-- bank_transaction_data_2.csv
 │-- clustered_data.csv
 │-- classification_data.csv
 ```
