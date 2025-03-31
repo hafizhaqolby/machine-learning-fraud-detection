@@ -29,7 +29,7 @@ Proyek ini bertujuan untuk membangun model Clustering dan Classification untuk m
 | Model | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|------------|---------|----------|
 | Random Forest (Before Tuning) | 100% | 1.00 | 1.00 | 1.00 |
-| Random Forest (After Tuning) | 100% | 1.00 | | 1.00 |
+| Random Forest (After Tuning) | 100% | 1.00 | 1.00 | 1.00 |
 
 ## 🚀 Rekomendasi Pengembangan
 - Coba algoritma lain: Misalnya, XGBoost atau Neural Network untuk meningkatkan performa model.
