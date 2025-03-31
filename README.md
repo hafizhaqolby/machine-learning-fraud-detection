@@ -22,14 +22,14 @@ Proyek ini bertujuan untuk membangun model Clustering dan Classification untuk m
 - Algoritma: Random Forest
 - Metode Tuning: GridSearchCV untuk mencari parameter terbaik. <br>
 ### Evaluasi Model:
-- Sebelum tuning: Akurasi = 95.23%
-- Setelah tuning: Akurasi tetap 95.23%, tetapi distribusi kelas lebih stabil.
+- Sebelum tuning: Akurasi = 100%
+- Setelah tuning: Akurasi tetap 100%
   
 ## 📊 **Evaluation Results**
 | Model | Accuracy | Precision | Recall | F1-Score |
 |--------|----------|------------|---------|----------|
-| Random Forest (Before Tuning) | 95.23% | 0.95 | 0.95 | 0.95 |
-| Random Forest (After Tuning) | 95.23% | 0.95 | 0.95 | 0.95 |
+| Random Forest (Before Tuning) | 100% | 1.00 | 1.00 | 1.00 |
+| Random Forest (After Tuning) | 100% | 1.00 | | 1.00 |
 
 ## 🚀 Rekomendasi Pengembangan
 - Coba algoritma lain: Misalnya, XGBoost atau Neural Network untuk meningkatkan performa model.
